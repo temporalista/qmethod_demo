@@ -38,7 +38,7 @@
    <item id="condOfInstFontSize">20</item>
    <item id="allowUnforcedSorts">false</item>
    <item id="warnOverloadedColumn">true</item>
-   <item id="setMinCardHeight">undefined</item>
+   <item id="setMinCardHeight">false</item>
    <item id="minCardHeight">50</item>
 
 
