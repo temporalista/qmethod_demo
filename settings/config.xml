@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <config version="1.0" htmlParse="false">
+
+   <!-- GENERAL SETTINGS -->
+   <item id="studyTitle">Q Method Demo: Mobility and Residential preferences</item> 
+   <item id="setupTarget">sheets</item>
+   <item id="firebaseOrLocal">sheets</item>
+   <item id="steinApiUrl">https://api.steinhq.com/v1/storages/646b8070eced9b09e9d110fe</item>
+
+
+   <item id="shuffleCards">true</item>
+   <item id="headerBarColor">#337ab7</item>
+   <item id="devMode">false</item>
+   
+
+   <!-- ACCESS -->
+   <!-- options: anonymous, partId-access, partId, access -->
+   <item id="initialScreen">partId</item>
+   <item id="accessCode">demo</item>
+
+
+   <!-- FONT OPTIONS -->
+   <!-- defaults false, 15, #2a2a2a -->
+   <item id="setDefaultFontSize">false</item>
+   <item id="defaultFontSize">15</item>
+   <item id="defaultFontColor">#2a2a2a</item>
+
+
+   <!-- PRESORT -->
+   <!-- default colors #ccffcc, #e0e0e0, #ffe0f0 -->
+   <item id="greenCardColor">#ccffcc</item>
+   <item id="yellowCardColor">#e0e0e0</item>
+   <item id="pinkCardColor">#ffe0e0</item>
+ 
+
+   <!-- SORT -->
+   <item id="condOfInstFontSize">20</item>
+   <item id="allowUnforcedSorts">false</item>
+   <item id="warnOverloadedColumn">true</item>
+   <item id="setMinCardHeight">undefined</item>
+   <item id="minCardHeight">50</item>
+
+
+   <!-- POSTSORT -->
+   <item id="showPostsort">true</item>
+   <item id="showSecondPosColumn">false</item>
+   <item id="showSecondNegColumn">false</item>
+   
+
+   <item id="displayNeutralObjects">false</item>
+
+
+   <!-- SURVEY - Survey Questions -->
+   <item id="showSurvey">false</item>
+
+
+       
+  </config>
